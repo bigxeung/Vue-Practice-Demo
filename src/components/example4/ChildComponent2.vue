@@ -5,10 +5,11 @@
   </div>
 </template>
 
-<script>
-export default {
-  inject: ['sharedMessage']
-};
+<script setup lang="ts">
+
+  import { inject } from 'vue';
+
+  const sharedMessage = inject<string>('sharedMessage');
 </script>
 
 <style scoped>

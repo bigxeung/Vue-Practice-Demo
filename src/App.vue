@@ -1,9 +1,11 @@
 <template>
-  <ParentComponent/>
+  <E11Reactive/>
 </template>
 
 <script setup lang="ts">
-import ParentComponent from './components/example4/ParentComponent.vue';  
+import E11Reactive from './components/example6/E-11-reactive.vue';
+
+
 
 
 </script>

@@ -27,7 +27,7 @@
 
 ## 5. API 비교 (Example 5)
 
-* **E-07-Options-API.vue**: E-08과 동일
+* **E-07-Options-API.vue**: E-09과 동일
 
 ## 6. Ref & Reactive 심화 (Example 6)
 

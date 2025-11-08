@@ -1,16 +1,11 @@
 <template>
-  <E03Binding/>
+  <ParentComponent/>
 </template>
 
 <script setup lang="ts">
-import E03Binding from "./components/example1/E-03-binding.vue";
+import ParentComponent from './components/example3/ParentComponent.vue';  
 
-</script>
 
-<script lang="ts">
-export default {
-  name: 'App'
-}
 </script>
 
 <style>
